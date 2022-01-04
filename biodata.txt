@@ -5,4 +5,8 @@ Contact No : 7745864403
 blood group : A+_
 Education : MCA
 Alternate Phone no : 9765636750
+<<<<<<< HEAD
 Hobbies : Playing Cricket, trekking and travling.
+=======
+Hobbies : Playing Cricket, trekking and travling
+>>>>>>> af2bd6a1dbb9b6e27518d6dcc0a4bc8cc6768760
